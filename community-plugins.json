@@ -37161,5 +37161,12 @@
     "author": "monoi",
     "description": "换母语 · 多语言每日打卡/朗读/划词存生词库 学习系统 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jiangzizhao/huanmuyu-plugin"
+  },
+  {
+    "id": "tomorrows-daily-note",
+    "name": "Tomorrow's Daily Note",
+    "author": "Guus Baggermans",
+    "description": "Open (or create) the daily note for any date, including future dates, from a quick command or ribbon icon.",
+    "repo": "prototypeverything/tomorrows-daily-note"
   }
 ]
